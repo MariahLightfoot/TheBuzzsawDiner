@@ -1,0 +1,20 @@
+html, body{
+    height: 100%; 
+    width: 100%;
+}
+
+header {
+    background-image: url("/assets/img/woodwallbackground.jpg");
+    height: 100%; 
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.buzzsawDinerLogo{
+    text-align: center;
+    position: relative;
+    margin: 20px auto;
+    padding: 100px;
+}
