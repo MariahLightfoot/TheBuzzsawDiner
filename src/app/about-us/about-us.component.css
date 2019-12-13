@@ -10,4 +10,5 @@
     display: grid;
     grid-template-columns: 28% 44% 28%;
     font-size: 22px;
+    padding-bottom: 25px;
 }
