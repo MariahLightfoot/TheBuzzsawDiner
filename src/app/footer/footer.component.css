@@ -1,13 +1,13 @@
 .footer{
-    text-align: center;
-    text-decoration: none;
-    background-color: black;
-    height: 100px;
-    padding-top: 25px;
     left: 0;
     bottom: 0;
     position: absolute;
     width: 100%;
+    text-align: center;
+    text-decoration: none;
+    background-color: black;
+    height: 100px;
+    padding-top: 25px;   
 }
 
 a{
@@ -19,3 +19,4 @@ a{
 .socialMediaLogos{
     padding-bottom: 10px;
 }
+
