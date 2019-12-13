@@ -1,4 +1,5 @@
 .wrapper{
     display: grid;
     grid-template-columns: 40% 60%;
+    background-color: #f0ffff;
 }
