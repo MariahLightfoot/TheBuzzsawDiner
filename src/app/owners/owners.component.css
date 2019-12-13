@@ -1,6 +1,6 @@
 .wrapper{
     display: grid;
     grid-template-columns: 40% 60%;
-    background-color: #fdfdec;
+    background-color: #f2f2f2;
     font-family: Arial, Helvetica, sans-serif;
 }
