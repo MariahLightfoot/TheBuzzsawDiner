@@ -17,11 +17,11 @@
     text-shadow:
 		-1px -1px 0 #000,
 		1px -1px 0 #000,
-		-1px 1px 0 #000,
+		-1px 1px 0 rgb(88, 31, 31),
         1px 1px 0 #000;
 }
 
 .button1:hover, .button2:hover{
     transform: scale(1.02);
-    box-shadow: 2.5px 2.5px black;
+    box-shadow: 2.5px 2.5px #262626;
 }
