@@ -3,7 +3,7 @@
     grid-template-columns: 40% 60%;
     background-color: #f2f2f2;
     font-family: Arial, Helvetica, sans-serif;
-    margin-bottom: 145px;
+    margin-bottom: 140px;
 }
 
 .pictureOfOwners{
@@ -20,4 +20,8 @@
 
 .ownersBio{
     font-size: 22px;
+}
+
+.ownersPopOutCommunityText{
+    text-align: center;
 }
