@@ -25,3 +25,8 @@
     transform: scale(1.02);
     box-shadow: 2.5px 2.5px #262626;
 }
+
+a {
+    text-decoration: none;
+    color: white;
+}
