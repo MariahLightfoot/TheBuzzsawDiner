@@ -24,6 +24,7 @@
 .button1:hover, .button2:hover{
     transform: scale(1.02);
     box-shadow: 2.5px 2.5px #262626;
+    cursor: pointer;
 }
 
 .button1.focus, .button1:focus, .button2.focus, .button2:focus {
