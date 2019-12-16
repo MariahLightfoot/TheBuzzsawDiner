@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 20% 25% 35% 20%;
     font-family: Arial, Helvetica, sans-serif;
-    margin-bottom: 140px;
+    /* margin-bottom: 140px; */
 }
 
 #pictureOfOwners{
@@ -14,4 +14,14 @@
 #ownersBio{
     font-size: 20px;
 }
+
+hr{
+    width: 50%;
+    border-top: 2px solid #0da58e;
+}
+
+#padding{
+    padding-bottom: 140px;
+}
+
 
