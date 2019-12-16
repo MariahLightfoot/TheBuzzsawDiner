@@ -1,26 +1,17 @@
-.wrapper{
+#wrapper{
     display: grid;
-    grid-template-columns: 25% 35% 40%;
+    grid-template-columns: 20% 25% 35% 20%;
     font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 140px;
 }
 
-.pictureOfOwners{
+#pictureOfOwners{
     float: left;
     padding: 20px;
 }
 
-.pictureOfOwners p {
-    float: left;
-    font-style: italic;
-    font-size: 14px;
-}
 
-.ownersBio{
+#ownersBio{
     font-size: 20px;
 }
 
-.ownersPopOutCommunityText{
-    text-align: center;
-    padding-top: 15%;
-}
