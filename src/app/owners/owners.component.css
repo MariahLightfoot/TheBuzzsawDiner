@@ -1,5 +1,4 @@
 #largerWrapper{
-    background-color: #f0f0f5;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -8,6 +7,10 @@
     display: grid;
     grid-template-columns: 20% 25% 35% 20%;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+#theBuzzsawStoryImage{
+    text-align: center;
 }
 
 #pictureOfOwners{
@@ -22,7 +25,7 @@
 
 hr{
     width: 50%;
-    border-top: 2px solid #0da58e;
+    border-top: 2px solid black;
 }
 
 #padding{

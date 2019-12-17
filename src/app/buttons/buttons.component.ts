@@ -17,6 +17,6 @@ export class ButtonsComponent implements OnInit {
   }
 
   contactUs(){
-    window.open("tel:+6183038501")
+    window.open("tel:+6362092406")
   }
 }
