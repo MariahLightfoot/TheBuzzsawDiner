@@ -5,25 +5,25 @@
 
 .button1, .button2, .button3{
     border-radius: 25px;
-    border: 3px solid black;
+    border: 2px solid black;
     padding: 5px; 
     margin: 20px;
     width: 250px;
     height: 60px;
-    background: #0da58e;
+    background: white;
     font-size: 30px;
     font-weight: 600;
-    color: white;
-    text-shadow:
+    color: black;
+    /* text-shadow:
 		-1px -1px 0 #000,
 		1px -1px 0 #000,
 		-1px 1px 0 rgb(88, 31, 31),
-        1px 1px 0 #000;
+        1px 1px 0 #000; */
 }
 
 .button1:hover, .button2:hover, .button3:hover{
     transform: scale(1.02);
-    box-shadow: 2.5px 2.5px #262626;
+    box-shadow: 7px 7px #0da58e;
     cursor: pointer;
 }
 
